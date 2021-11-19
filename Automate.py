@@ -111,7 +111,6 @@ class AfbLogin:
 
 
                 number_of_accounts += 1
-                # Testing
 
 
 
